@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-typedef OwnValueBuilder  = Widget Function(BuildContext context);
+typedef OwnValueBuilder = Widget Function(BuildContext context);
 
 class OwnValueListenableBuilder extends StatefulWidget {
   const OwnValueListenableBuilder({
